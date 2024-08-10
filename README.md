@@ -1,0 +1,2 @@
+# HareGit
+This is the demo Repository, basically i created to learning purpose. How to use Git Bash, VS code Terminal etc.
